@@ -1,0 +1,20 @@
+# Private/third-party data and raw generations
+/corpora/
+/thesaurus/
+/definitions_bete/
+/definitions_geocorpus/
+/definitions_mesh/
+/definitions_sigep/
+/local_raw_results/
+/folds_output/
+/summary.csv
+/images/
+/tex/
+*.ipynb
+*.pickle
+*.pkl
+*.dict
+__pycache__/
+*.py[cod]
+.venv/
+.env
